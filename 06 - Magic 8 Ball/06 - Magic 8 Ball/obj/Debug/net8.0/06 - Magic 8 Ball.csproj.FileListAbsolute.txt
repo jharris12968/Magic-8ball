@@ -1,0 +1,14 @@
+C:\Users\joeha\OneDrive\Desktop\Programming\06 - Magic 8 Ball\06 - Magic 8 Ball\bin\Debug\net8.0\06 - Magic 8 Ball.exe
+C:\Users\joeha\OneDrive\Desktop\Programming\06 - Magic 8 Ball\06 - Magic 8 Ball\bin\Debug\net8.0\06 - Magic 8 Ball.deps.json
+C:\Users\joeha\OneDrive\Desktop\Programming\06 - Magic 8 Ball\06 - Magic 8 Ball\bin\Debug\net8.0\06 - Magic 8 Ball.runtimeconfig.json
+C:\Users\joeha\OneDrive\Desktop\Programming\06 - Magic 8 Ball\06 - Magic 8 Ball\bin\Debug\net8.0\06 - Magic 8 Ball.dll
+C:\Users\joeha\OneDrive\Desktop\Programming\06 - Magic 8 Ball\06 - Magic 8 Ball\bin\Debug\net8.0\06 - Magic 8 Ball.pdb
+C:\Users\joeha\OneDrive\Desktop\Programming\06 - Magic 8 Ball\06 - Magic 8 Ball\obj\Debug\net8.0\06 - Magic 8 Ball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeha\OneDrive\Desktop\Programming\06 - Magic 8 Ball\06 - Magic 8 Ball\obj\Debug\net8.0\06 - Magic 8 Ball.AssemblyInfoInputs.cache
+C:\Users\joeha\OneDrive\Desktop\Programming\06 - Magic 8 Ball\06 - Magic 8 Ball\obj\Debug\net8.0\06 - Magic 8 Ball.AssemblyInfo.cs
+C:\Users\joeha\OneDrive\Desktop\Programming\06 - Magic 8 Ball\06 - Magic 8 Ball\obj\Debug\net8.0\06 - Magic 8 Ball.csproj.CoreCompileInputs.cache
+C:\Users\joeha\OneDrive\Desktop\Programming\06 - Magic 8 Ball\06 - Magic 8 Ball\obj\Debug\net8.0\06 - Magic 8 Ball.dll
+C:\Users\joeha\OneDrive\Desktop\Programming\06 - Magic 8 Ball\06 - Magic 8 Ball\obj\Debug\net8.0\refint\06 - Magic 8 Ball.dll
+C:\Users\joeha\OneDrive\Desktop\Programming\06 - Magic 8 Ball\06 - Magic 8 Ball\obj\Debug\net8.0\06 - Magic 8 Ball.pdb
+C:\Users\joeha\OneDrive\Desktop\Programming\06 - Magic 8 Ball\06 - Magic 8 Ball\obj\Debug\net8.0\06 - Magic 8 Ball.genruntimeconfig.cache
+C:\Users\joeha\OneDrive\Desktop\Programming\06 - Magic 8 Ball\06 - Magic 8 Ball\obj\Debug\net8.0\ref\06 - Magic 8 Ball.dll
